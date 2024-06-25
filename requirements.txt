@@ -7,3 +7,4 @@ moviepy
 pydub
 scipy
 opencv-python
+gunicorn
