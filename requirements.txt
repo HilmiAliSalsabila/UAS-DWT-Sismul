@@ -1,0 +1,9 @@
+Flask
+flask_cors
+numpy
+Pillow
+PyWavelets
+moviepy
+pydub
+scipy
+opencv-python
