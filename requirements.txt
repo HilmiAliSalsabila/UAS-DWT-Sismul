@@ -6,5 +6,5 @@ PyWavelets
 moviepy
 pydub
 scipy
-opencv-python
 gunicorn
+opencv-python-headless
